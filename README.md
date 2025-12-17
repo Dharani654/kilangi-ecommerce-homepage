@@ -37,7 +37,7 @@ kilangi-ecommerce-homepage/
 ## 🚀 Live Demo
 
 🔗 Live URL:  
-(Add your Netlify link here)
+tubular-starship-cca3b9.netlify.app
 
 ---
 
