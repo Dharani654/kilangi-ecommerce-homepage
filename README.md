@@ -45,7 +45,7 @@ tubular-starship-cca3b9.netlify.app
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kilangi-ecommerce-homepage.git
+   git clone https://github.com/Dharani654/kilangi-ecommerce-homepage.git
 Open the project folder
 
 Open index.html in any modern browser
